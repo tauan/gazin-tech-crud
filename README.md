@@ -8,6 +8,10 @@ Este é um projeto desenvolvido com `Next JS e Nest JS`, foi feito com muito car
 ## Descrição do desafio
 ### O [Desafio](https://github.com/gazin-tech/Desafio-FullStack) consiste em desenvolver um CRUD que abranjam 2 rotas, referente a Níveis e Desenvolvedores e que um checklist de requisitos que fosse atendido 
 
+ Você pode testar o projeto online através dos ips:
+- <a href="http://100.25.222.193:4000/#/">Acessar API</a>
+- <a href="http://54.237.59.82/">Acessar Frontend</a>
+
 
 Para instalar o projeto você conta com 3 opções, escolha a que melhor te atender   
 
