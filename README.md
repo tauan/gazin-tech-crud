@@ -6,14 +6,15 @@ Este é um projeto desenvolvido com `Next JS e Nest JS`, foi feito com muito car
 </p>
 
 ## Descrição do desafio
-### O desafio consiste em desenvolver um CRUD que abranjam 2 rotas, referente a Níveis e Desenvolvedores e que um checklist de requisitos que fosse atendido
+### O [Desafio](https://github.com/gazin-tech/Desafio-FullStack) consiste em desenvolver um CRUD que abranjam 2 rotas, referente a Níveis e Desenvolvedores e que um checklist de requisitos que fosse atendido 
+
 
 Para instalar o projeto você conta com 3 opções, escolha a que melhor te atender   
 
 # Método 1 (mais recomendado) - Utilizando imagens do docker
 <br />
 Deixei todas as imagens prontas, de maneira que se seguir os passos terá uma aplicação rodando em poucos passos. 
-Para prosseguir é necessario que tenha o Docker instalado em seu ambiente - [Obter Docker](https://docs.docker.com/get-docker/)
+Para prosseguir é necessario que tenha o Docker instalado em seu ambiente - <a href="https://docs.docker.com/get-docker">Obter Docker</a>
 
 ## Criando nossa rede Docker
 Iremos criar uma rede para usarmos como padrão em todos nossos containers, de maneira que exista comunicação direta entre eles, para isso utilize um terminal UNIX ou o powerShell
