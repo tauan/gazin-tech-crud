@@ -12,6 +12,8 @@ Este é um projeto desenvolvido com `Next JS e Nest JS`, foi feito com muito car
 - <a href="http://100.25.222.193:4000/#/">Acessar API</a>
 - <a href="http://54.237.59.82/">Acessar Frontend</a>
 
+(Obs*) a API e o frontend estão em ambientes diferentes pelo fato de estarem alocadas em maquinas free da aws com limitações de recursos, então se fez necessario a separação dos ambientes
+
 
 Para instalar o projeto você conta com 3 opções, escolha a que melhor te atender   
 
